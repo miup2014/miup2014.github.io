@@ -1,0 +1,9 @@
+# Site settings
+title: MIUP 2014
+email: hugosf@fe.up.pt
+baseurl: ""
+url: "http://yourdomain.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty

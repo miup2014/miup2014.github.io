@@ -1,0 +1,18 @@
+<div class="bg-info posts">
+  <h4>Notícias</h4>
+  <dl>
+    {% for post in site.posts %}
+    <dt>
+      {{ post.date | date: "%Y-%m-%d" }}
+    </dt>
+    <dd>
+      {% if post.title %}
+      <a class="page-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      {% endif %}
+    </dd>
+    {% endfor %}
+  </dl>
+  <div style="text-align: right">
+    <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
+  </div>
+</div>
