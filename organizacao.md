@@ -4,6 +4,4 @@ title: Organização
 permalink: /organizacao/
 ---
 
-## Comissão Organizadora
-
-## Comissão Ciêntifica
+TODO
