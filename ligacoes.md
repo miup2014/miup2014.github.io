@@ -4,10 +4,6 @@ title: Ligações
 permalink: /ligacoes/
 ---
 
-## Sugestões de Alojamento
-
-TODO
-
 ## Ligações Institucionais
 
 * [Faculdade de Engenharia][feup]
