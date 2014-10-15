@@ -16,7 +16,7 @@ permalink: /sponsors/
 
 ### Institutional Sponsors
 
-* FEUP
+![FEUP Logo](/assets/feup_logo.jpg)
 * DEI
 * MIEIC
 * NuIEEE
