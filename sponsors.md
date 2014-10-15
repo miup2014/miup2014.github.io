@@ -12,11 +12,12 @@ permalink: /sponsors/
 
 ### Silver Sponsors
 
-* ShiftForward
+![ShiftForward Logo](/assets/shiftforward_logo_medium.png)
 
-### Institutional Sponsors
+**ShiftForward.** Founded in 2011, ShiftForward enables businesses in the online advertising industry to build and run their own ad technology as a way to gain a competitive advantage and maintain strategic control, unavailable with closed full-stack solutions. It does this through its product, the AdStax – a modular, component-oriented infrastructure specifically designed for large-scale, high-performance and low-latency ad-tech systems. AdStax enables deployment on hundreds or thousands of machines, orchestrating the provisioning and deployment on the cloud, and providing an interoperable and extensible layer for companies’ proprietary development.
 
-![FEUP Logo](/assets/feup_logo.jpg)
-* DEI
-* MIEIC
+### Institutional Support
+
+* ![FEUP Logo](/assets/feup_logo.jpg)
+* ![DEI Logo](/assets/dei_logo.jpg)
 * NuIEEE
