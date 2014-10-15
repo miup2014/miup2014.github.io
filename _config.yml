@@ -11,3 +11,5 @@ permalink: pretty
 collections:
   sponsors:
     output: false
+  institutions:
+    output: false

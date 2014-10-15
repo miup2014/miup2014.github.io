@@ -24,3 +24,11 @@
   </p>
 {% endfor %}
 </div>
+<div class="bg-info posts col-centered">
+  <h4>Institutional Support</h4>
+{% for institution in site.institutions %}
+  <p style="margin-top: 2em">
+    <a href="{{ institution.webpage }}"><img src="{{ baseurl }}/{{ institution.logo_small }}" alt="{{ institution.alt_text }}" /></a>
+  </p>
+{% endfor %}
+</div>

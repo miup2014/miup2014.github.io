@@ -15,6 +15,6 @@ permalink: /sponsors/
 
 ### Institutional Support
 
-* ![FEUP Logo](/assets/feup_logo.jpg)
+* ![FEUP Logo](/assets/feup_logo_small.png)
 * ![DEI Logo](/assets/dei_logo.jpg)
 * NuIEEE
