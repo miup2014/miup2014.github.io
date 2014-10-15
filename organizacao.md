@@ -15,6 +15,7 @@ permalink: /organizacao/
 
 * André Restivo (U. Porto - FEUP)
 * Fábio Marques (U. Aveiro)
+* Hugo Sereno Ferreira (U. Porto - FEUP)
 * Luís Paquete (U. Coimbra)
 * Margarida Mamede (U. Nova de Lisboa)
 * Miguel Oliveira (U. Porto - FEUP)
@@ -26,6 +27,12 @@ permalink: /organizacao/
 * Rui Mendes (U. Minho)
 * Vasco Pedro (U. Évora)
 
-## Voluntários Estudantes
+## Estudantes Voluntários
 
-TBD
+* Diogo Santos (MIEIC)
+* João Correia Pinto (MIEEC)
+* João Maia (MIEIC)
+* João Pedro Dias (MIEIC)
+* José Pedro Pinto (MIEIC)
+* Tiago Simões Almeida (MIEM)
+* Tomás Tavares (MIEEC)
