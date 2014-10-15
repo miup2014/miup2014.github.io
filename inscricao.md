@@ -4,7 +4,7 @@ title: Inscrições
 permalink: /enroll/
 ---
 
-A inscrição deve ser efectuada através do seguinte formulário, atendendo que:
+A inscrição deve ser efectuada através do seguinte formulário até **20 de Outubro**, atendendo que:
 
 1. Deve ser dado o nome completo dos três participantes;
 2. Indicar o nome do treinador, bem como a Instituição/Unidade Orgânica;
