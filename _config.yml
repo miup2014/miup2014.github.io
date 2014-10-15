@@ -7,3 +7,7 @@ url: "http://miup2014.github.io"
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+collections:
+  sponsors:
+    output: false
