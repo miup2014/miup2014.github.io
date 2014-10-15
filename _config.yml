@@ -1,8 +1,8 @@
 # Site settings
 title: MIUP 2014
 email: hugosf@fe.up.pt
-baseurl: ""
-url: "http://yourdomain.com"
+baseurl: "http://miup2014.github.io"
+url: "http://miup2014.github.io"
 
 # Build settings
 markdown: kramdown
