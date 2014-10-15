@@ -17,3 +17,4 @@ permalink: /sponsors/
 * FEUP
 * DEI
 * MIEIC
+* NuIEEE

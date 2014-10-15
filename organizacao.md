@@ -25,3 +25,7 @@ permalink: /organizacao/
 * Pedro Ribeiro (U. Porto - FCUP)
 * Rui Mendes (U. Minho)
 * Vasco Pedro (U. Évora)
+
+## Voluntários Estudantes
+
+TBD
