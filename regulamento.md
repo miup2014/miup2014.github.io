@@ -28,7 +28,7 @@ Este regulamento está ainda sujeito a alterações
 ## Material
 
 * Cada equipa pode ter no seu espaço da sala da competição um máximo de 25 páginas A4 impressas (não é aceite material manuscrito) com um tamanho de letra igual ou superior a 8. Cada elemento da equipa pode usar uma cópia exacta deste material. Qualquer outro material de auxilio não será permitido, com excepção da documentação online disponível no ambiente da competição.
-* O material impresso tem que ser entregue ao júri da MIUP 2013 durante o processo de registo da equipa no dia da competição. Esse material será devolvido às equipas quando estas entrarem nas respectivas salas para a competição.
+* O material impresso tem que ser entregue ao júri da MIUP 2014 durante o processo de registo da equipa no dia da competição. Esse material será devolvido às equipas quando estas entrarem nas respectivas salas para a competição.
 * A organização irá providenciar folhas A4 brancas. As equipas podem trazer réguas, compassos, lápis e canetas.
 
 ## Classificação
