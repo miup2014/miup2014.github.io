@@ -17,4 +17,4 @@ permalink: /sponsors/
 
 * ![FEUP Logo](/assets/feup_logo_small.png)
 * ![DEI Logo](/assets/dei_logo.jpg)
-* NuIEEE
+* ![NuIEEE Logo](/assets/nuieee_logo_small.png)
