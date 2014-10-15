@@ -20,7 +20,7 @@
   <h4>Sponsors </h4>
 {% for sponsor in site.sponsors %}
   <p style="margin-top: 2em">
-    <a href="{{ sponsor.webpage }}"><img src="{{ baseurl }}/{{ sponsor.logo_small }}" /></a>
+    <a href="{{ sponsor.webpage }}"><img src="{{ baseurl }}/{{ sponsor.logo_small }}" alt="{{ sponsor.alt_text }}" /></a>
   </p>
 {% endfor %}
 </div>
