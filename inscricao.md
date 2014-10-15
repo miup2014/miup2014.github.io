@@ -4,7 +4,7 @@ title: Inscrições
 permalink: /enroll/
 ---
 
-A inscrição deve ser efectuada por email para [este endereço](hugosf@fe.up.pt), atendendo ao seguinte:
+A inscrição deve ser efectuada por email para [este endereço](mailto:hugosf@fe.up.pt?subject=MIUP 2014 Subscription), atendendo ao seguinte:
 
 1. Deve ser enviado o nome completo dos três participantes;
 2. Indicar o nome do treinador, bem como a Instituição/Unidade Orgânica;
