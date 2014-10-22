@@ -32,6 +32,7 @@ permalink: /ligacoes/
   * [CodeForces][codeforces]
   * [IPSC][ipsc] (Internet Problem Solving Contest)
   * [Project Euler][euler] (desafios mais matemáticos)
+  * [Hacker Rank](https://www.hackerrank.com/) 
 
 ## Edições Passadas de MIUPs
 
