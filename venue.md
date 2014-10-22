@@ -20,4 +20,11 @@ A [Porto Studios](http://www.portostudios.com/espacos/) tem também ofertas espe
 
 ## Agenda
 
-TBD
+{:.table .table-striped}
+| Hora  | Evento                         |
+|-------|--------------------------------|
+|  9:00 | Registo (I-105)                |
+|  9:45 | Sessão de Abertura             |
+| 10:00 | Concurso (B104)                |
+| 15:00 | Fim do Concurso                |
+| 16:00 | Sessão de Encerramento (I-105) |
