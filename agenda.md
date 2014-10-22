@@ -13,10 +13,10 @@ A seguinte agenda pode estar sujeita a alterações:
 | 09:45 — 10:00 | [I-105][i105] | Sessão de Abertura      |
 | 10:00 — 15:00 | [B104][b104]  | Competição              |
 | 15:00 — 16:00 | [I-105][i105] | Coffee Break / Convívio |
-| **16:00 — 17:30** | [I-105][i105] | **Sessão de Encerramento** |
-| 16:00 — 16:20 | | Apresentação pelos patrocinadores:<br/>* **Hugo Silva** da [Semasio][semasio]<br/>* **Paulo Cunha** da [ShiftForward][shiftforward] |
-| 16:20 — 16:30 | | Entrega de Prémios  |
-| 16:30 — 17:30 | | Discussão dos Problemas:<br/>* **Pedro Ribeiro** da FCUP |
+| **16:00 — 18:00** | [I-105][i105] | **Sessão de Encerramento** |
+| 16:00 — 17:00 | | Discussão dos Problemas:<br/>* **[Pedro Ribeiro](http://www.dcc.fc.up.pt/~pribeiro/)** da [FCUP](http://www.dcc.fc.up.pt) |
+| 17:00 — 17:20 | | Apresentação pelos patrocinadores:<br/>* **[Hugo Silva](http://pt.linkedin.com/in/hugosilva)** da [Semasio][semasio]<br/>* **[Paulo Cunha](http://pt.linkedin.com/in/pcunha)** da [ShiftForward][shiftforward] |
+| 17:20 — 18:00 | | Entrega de Prémios e Encerramento |
 
 Durante o concurso estará sempre disponível na sala ([I-105][i105]) um coffee-break *contínuo*.
 

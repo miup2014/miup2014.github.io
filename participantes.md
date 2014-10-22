@@ -19,3 +19,4 @@ permalink: /equipas/
 | UBIrimbau | Universidade da Beira Interior | Simão de Melo Sousa | João Reis<br/>Luís Horta<br/>Eunice Martins |
 | Beef | Faculdade de Engenharia<br/>Universidade do Porto | Hugo Sereno Ferreira | Gabriel Candal<br/>Diogo Nunes<br/>Miguel Pereira |
 | deadBits | Faculdade de Engenharia<br/>Universidade do Porto | Hugo Sereno Ferreira | Daniel Couceiro<br/>Henrique Ferrolho<br/>Luis Reis |
+| lessgralho | Faculdade de Engenharia<br/>Universidade do Porto | Hugo Sereno Ferreira | Pedro Silva<br/>Tiago Coelho |
