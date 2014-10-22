@@ -14,7 +14,7 @@ A seguinte agenda pode estar sujeita a alterações:
 | 10:00 — 15:00 | [B104][b104]  | Competição              |
 | 15:00 — 16:00 | [I-105][i105] | Coffee Break / Convívio |
 | **16:00 — 17:30** | [I-105][i105] | **Sessão de Encerramento** |
-| 16:00 — 16:20 | | Apresentação pelos patrocinadores:<br/>* **Hugo Silva** e **Pedro Saleiro** da Semasio<br/>* **Paulo Cunha** da ShiftForward |
+| 16:00 — 16:20 | | Apresentação pelos patrocinadores:<br/>* **Hugo Silva** da [Semasio][semasio]<br/>* **Paulo Cunha** da [ShiftForward][shiftforward] |
 | 16:20 — 16:30 | | Entrega da Prémios  |
 | 16:30 — 17:30 | | Discussão dos Problemas:<br/>* **Pedro Ribeiro** da FCUP |
 
@@ -27,4 +27,6 @@ A melhor forma de aceder à sala de registo ([I-105][i105]) é através da entra
 ![Mapa](/assets/mapa.png)
 
 [i105]: https://sigarra.up.pt/feup/pt/instal_geral.espaco_view?pv_id=74724
-[b104]: ](https://sigarra.up.pt/feup/pt/instal_geral.espaco_view?pv_id=73471
+[b104]: https://sigarra.up.pt/feup/pt/instal_geral.espaco_view?pv_id=73471
+[shiftforward]: http://www.shiftforward.eu
+[semasio]: http://www.semasio.com
