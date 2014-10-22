@@ -15,7 +15,7 @@ A seguinte agenda pode estar sujeita a alterações:
 | 15:00 — 16:00 | [I-105][i105] | Coffee Break / Convívio |
 | **16:00 — 17:30** | [I-105][i105] | **Sessão de Encerramento** |
 | 16:00 — 16:20 | | Apresentação pelos patrocinadores:<br/>* **Hugo Silva** da [Semasio][semasio]<br/>* **Paulo Cunha** da [ShiftForward][shiftforward] |
-| 16:20 — 16:30 | | Entrega da Prémios  |
+| 16:20 — 16:30 | | Entrega de Prémios  |
 | 16:30 — 17:30 | | Discussão dos Problemas:<br/>* **Pedro Ribeiro** da FCUP |
 
 Durante o concurso estará sempre disponível na sala ([I-105][i105]) um coffee-break *contínuo*.
