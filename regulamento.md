@@ -18,6 +18,10 @@ Este regulamento está ainda sujeito a alterações
 * As inscrições das equipas têm que ser feitas obrigatoriamente no prazo definido pela organização.
 * A participação de uma equipa está sujeita ao pagamento de uma inscrição de 50 euros na data do evento.
 
+## Prémios
+
+* Cada membro da equipa vencedora receberá um `Google Nexus 7`, gentilmente patrocinados pela [Semasio](http://www.semasio.com) e [Shiftforward](http://www.shiftforward.eu).
+
 ## Ambiente de trabalho
 
 * Cada equipa terá direito a apenas um computador, equipado de maneira semelhante a todas as outras equipas.
