@@ -22,10 +22,10 @@ Este regulamento está ainda sujeito a alterações
 
 * Cada equipa terá direito a apenas um computador, equipado de maneira semelhante a todas as outras equipas.
 * Cada equipa terá acesso aos compiladores de C, C++ e Java. Os programas deverão residir num ficheiro isolado e deverão obedecer às normas standard (ANSI-C). Será permitido o uso de STL no C++ e das packages de classes habituais do Java.
+* As versões dos compiladores que estão disponíveis são o `Java 1.7.0._67` e o `GCC/G++ 4.8.2`
 * Todos os computadores estarão equipados com o sistema Linux e com os IDEs/editores habituais: `GEdit`, `KDevelop 4.6`, `Eclipse 3.8`, `Geany`, `Kate`, `Emacs 24.3.1`, `Nano 2.2.6` e `Vim 7.4`.
 * O sistema de avaliação automática de submissões usado será o Mooshak.
 * As equipas poderão levar material impresso (ver secção Material), estando impedidas de levar material em suporte informático ou calculadoras de bolso.
-* As versões dos compiladores que estão disponíveis são o `Java 1.7.0._67` e o `GCC/G++ 4.8.2`
 
 ## Material
 
