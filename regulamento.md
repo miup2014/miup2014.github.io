@@ -38,15 +38,15 @@ Este regulamento está ainda sujeito a alterações
 
 ## Classificação
 
-* As equipas são classificadas de acordo com o número de problemas resolvidos. Em caso de empate, serão classificadas pelo somatório dos tempos dos problemas resolvidos. O tempo de um problema é igual ao tempo passado desde o início da prova até à sua submissão correcta mais uma penalização de 20 minutos por cada submissão errada para esse problema.
+As equipas são classificadas de acordo com o número de problemas resolvidos. Em caso de empate, serão classificadas pelo somatório dos tempos dos problemas resolvidos. O tempo de um problema é igual ao tempo passado desde o início da prova até à sua submissão correcta mais uma penalização de 20 minutos por cada submissão errada para esse problema.
 
 ## Desqualificação
 
-* Se uma equipa não cumprir com todos os pontos que constam do regulamento poderá ser desqualificada antes, durante ou depois da prova.
+Se uma equipa não cumprir com todos os pontos que constam do regulamento poderá ser desqualificada antes, durante ou depois da prova.
 
 ## Apelos
 
-* Apenas a violação do regulamento ou desqualificações por má conduta podem ser sujeitas a apelo. As decisões do júri de aceitar ou rejeitar submissões são finais e não podem ser objecto de reclamação ou apelo. Os apelos apenas podem ser apresentados pelo treinadores das equipas.
+Apenas a violação do regulamento ou desqualificações por má conduta podem ser sujeitas a apelo. As decisões do júri de aceitar ou rejeitar submissões são finais e não podem ser objecto de reclamação ou apelo. Os apelos apenas podem ser apresentados pelo treinadores das equipas.
 
 [regrules]: http://icpc.baylor.edu/regionals/rules#HTeamComposition
 [edt]: http://icpc.baylor.edu/download/regionals/rules/EligibilityDecisionTree-13.pdf
