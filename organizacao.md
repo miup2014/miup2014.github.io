@@ -9,7 +9,8 @@ permalink: /organizacao/
 * Hugo Sereno Ferreira, FEUP (Chair)
 * João Azevedo, ShiftForward
 * Luís Fonseca, ShiftForward
-* Tiago Boldt, FEUP
+* Miguel Oliveira, FEUP
+* Tiago Boldt Sousa, FEUP
 
 ## Comissão Científica
 
