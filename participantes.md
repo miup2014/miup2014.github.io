@@ -4,7 +4,7 @@ title: Equipas
 permalink: /equipas/
 ---
 
-Já está disponível para consulta a [tabela final classificativa](/2014/10/25/resultados/). 
+Já está disponível para consulta a [tabela final classificativa](/2014/10/25/resultados/).
 
 {:.table .table-striped}
 | Nome da Equipa  | Instituição | Treinador | Participantes |
